@@ -37,12 +37,12 @@
 
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <a href="https://github.com/Aryan24a-git">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan24a-git&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Aryan24a-git's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Aryan24a-git&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Aryan24a-git's GitHub Streak" width="49%" />
-</p>
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Aryan24a-git&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <br/><br/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan24a-git&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan24a-git&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan24a-git&theme=nightowl&radius=10" alt="Aryan24a-git's Activity Graph" />
 </p>
@@ -80,11 +80,6 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <a href="https://github.com/Aryan24a-git">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan24a-git&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <div align="center">
