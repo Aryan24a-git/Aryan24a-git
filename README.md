@@ -22,7 +22,7 @@
 - ## 📌𝘚𝘮𝘢𝘭𝘭 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴
 - 🔹 𝘏𝘢𝘣𝘪𝘵 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 (𝘗𝘺𝘵𝘩𝘰𝘯-𝘣𝘢𝘴𝘦𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘷𝘪𝘵𝘺 𝘵𝘰𝘰𝘭)
 - 🔹 𝘐𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘝𝘢𝘭𝘦𝘯𝘵𝘪𝘯𝘦'𝘴 𝘞𝘦𝘣𝘴𝘪𝘵𝘦 (𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚, 𝘑𝘚)
-- 🔹 𝘔𝘦𝘴𝘴 𝘉𝘶𝘥𝘥𝘺 (𝘐𝘯 𝘗𝘳𝘰𝘨𝘳𝘦𝘴𝘴 –  𝘦𝘹𝘱𝘦𝘯𝘴𝘦 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 𝘧𝘰𝘳 𝘮𝘦𝘴𝘴/𝘩𝘰𝘴𝘵𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵𝘴)
+- 🔹 𝘔𝘦𝘴𝘴 𝘉𝘶𝘥𝘥𝘺 (𝘐𝘯 𝘗𝘳𝘰𝘨𝘳𝘦𝘴𝘴 – expense management for mess/hostel students)
 ---
 - ## 🧩𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘴
 - 🔹𝘌𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴
@@ -32,7 +32,7 @@
 
 ## 🧠 My Focus Areas
 -🔹𝘸𝘦𝘣 𝘥𝘦𝘷𝘭𝘰𝘱𝘮𝘦𝘯𝘵
--🔹𝘈𝘐/𝘔𝘓
+-🔹𝘈I/𝘔𝘓
 -🔹𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘋𝘦𝘷𝘖𝘱𝘴
 
 
@@ -83,13 +83,15 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/sk-firdous-ali-b8ba92379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:askfirdoush@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/aryan_24a" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Snake Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/output/github-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
