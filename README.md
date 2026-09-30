@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%F0%9D%98%88%F0%9D%98%99%F0%9D%98%A0%F0%9D%98%88%F0%9D%98%95&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9D%98%9B%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%A9%20%F0%9D%98%8C%F0%9D%98%AF%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%B6%F0%9D%98%B4%F0%9D%98%AA%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B5&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:a371f7&text=%F0%9D%98%88%F0%9D%98%99%F0%9D%98%A0%F0%9D%98%88%F0%9D%98%95&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%F0%9D%98%9B%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%A9%20%F0%9D%98%8C%F0%9D%98%AF%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%B6%F0%9D%98%B4%F0%9D%98%AA%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B5&descSize=20&descColor=FFFFFF&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Aryan24a-git">
@@ -90,7 +90,19 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/sk-firdous-ali-b8ba92379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:askfirdoush@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/aryan_24a" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sk-firdous-ali-b8ba92379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/aryan_24a" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:askfirdoush@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
