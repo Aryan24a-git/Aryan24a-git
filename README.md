@@ -36,15 +36,12 @@
 -🔹𝘉𝘢𝘤𝘬𝘦𝘯𝘥 & 𝘋𝘦𝘷𝘖𝘱𝘴
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Activity
 <p align="center">
   <a href="https://github.com/Aryan24a-git">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan24a-git&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Aryan24a-git's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Aryan24a-git&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Aryan24a-git's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Aryan24a-git&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="𝘈𝘙𝘠𝘈𝘕's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan24a-git&theme=nightowl&radius=10" alt="Aryan24a-git's Activity Graph" />
