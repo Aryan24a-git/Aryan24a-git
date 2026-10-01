@@ -61,7 +61,7 @@
 
 <!-- Pinned Projects Grid -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects.svg" alt="Aryan's Pinned Projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/pinned-projects.svg" alt="Aryan's Pinned Projects" width="100%" />
 </div>
 
 
