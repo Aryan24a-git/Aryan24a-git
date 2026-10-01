@@ -59,6 +59,12 @@
   </picture>
 </div>
 
+<!-- Pinned Projects Grid -->
+<div align="center">
+  <img src="projects.svg" alt="Aryan's Pinned Projects" width="100%" />
+</div>
+
+
 
 ## 🛠️ Languages & Tools
 
