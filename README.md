@@ -47,7 +47,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan24a-git&theme=nightowl&radius=10" alt="Aryan24a-git's Activity Graph" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 <!-- Snake Contribution Graph -->
@@ -61,7 +61,7 @@
 
 <!-- Pinned Projects Grid -->
 <div align="center">
-  <img src="projects.svg" alt="Aryan's Pinned Projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects.svg" alt="Aryan's Pinned Projects" width="100%" />
 </div>
 
 
