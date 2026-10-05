@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:a371f7&text=%F0%9D%98%88%F0%9D%98%99%F0%9D%98%A0%F0%9D%98%88%F0%9D%98%95&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%F0%9D%98%9B%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%A9%20%F0%9D%98%8C%F0%9D%98%AF%F0%9D%98%B5%F0%9D%98%A9%F0%9D%98%B6%F0%9D%98%B4%F0%9D%98%AA%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B5&descSize=20&descColor=FFFFFF&descAlignY=58" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Aryan24a-git">
-    <img src="https://komarev.com/ghpvc/?username=Aryan24a-git&label=Profile%20views&color=00FFFF&style=flat-square" alt="Aryan24a-git's profile views" />
+  <a href="https://github.com/Aryan24a-git">
+    <img src="https://komarev.com/ghpvc/?username=Aryan24a-git&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Aryan24a-git's Profile Views" />
   </a>
 </p>
 
@@ -43,12 +43,7 @@
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan24a-git&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500&cache_seconds=7200" alt="stats" />
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan24a-git&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500&cache_seconds=7200" alt="top langs" />
 </div>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan24a-git&theme=nightowl&radius=10" alt="Aryan24a-git's Activity Graph" />
-</p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 <!-- Snake Contribution Graph -->
 <div align="center">
