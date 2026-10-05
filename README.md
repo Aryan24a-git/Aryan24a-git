@@ -56,7 +56,24 @@
 
 <!-- Pinned Projects Grid -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/pinned-projects.svg" alt="Aryan's Pinned Projects" width="100%" />
+  <a href="https://github.com/Aryan24a-git/chunav-saathi">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/chunav-saathi.svg" width="49%" alt="Chunav Saathi" />
+  </a>
+  <a href="https://github.com/Aryan24a-git/CampusFlow">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/CampusFlow.svg" width="49%" alt="CampusFlow" />
+  </a>
+  <a href="https://github.com/Aryan24a-git/FIFA-FanConnect">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/FIFA-FanConnect.svg" width="49%" alt="FIFA FanConnect" />
+  </a>
+  <a href="https://github.com/Aryan24a-git/Buddy-Tracker">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/Buddy-Tracker.svg" width="49%" alt="Buddy Tracker" />
+  </a>
+  <a href="https://github.com/Aryan24a-git/carbon-saathi">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/carbon-saathi.svg" width="49%" alt="Carbon Saathi" />
+  </a>
+  <a href="https://github.com/Aryan24a-git/habit-tracker">
+    <img src="https://raw.githubusercontent.com/Aryan24a-git/Aryan24a-git/main/projects/habit-tracker.svg" width="49%" alt="Habit Tracker" />
+  </a>
 </div>
 
 

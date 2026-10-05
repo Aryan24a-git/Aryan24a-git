@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 462 142" width="462" height="142">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A101F" />
+      <stop offset="100%" stop-color="#0B1528" />
+    </linearGradient>
+    <linearGradient id="grad-buddy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#BE185D" />
+    </linearGradient>
+  </defs>
+  <rect width="462" height="142" rx="12" fill="url(#card-bg)" stroke="#1E293B" stroke-width="1.2" />
+  <circle cx="18" cy="18" r="3" fill="#22D3EE" />
+  <text x="27" y="22" font-family="monospace" font-size="11" fill="#64748B">Aryan24a-git/Buddy-Tracker</text>
+  <circle cx="444" cy="18" r="3.5" fill="#10B981" />
+  
+  <rect x="18" y="38" width="38" height="38" rx="10" fill="url(#grad-buddy)" />
+  <circle cx="33" cy="53" r="5" stroke="#FFFFFF" stroke-width="2" fill="none" />
+  <circle cx="41" cy="53" r="5" stroke="#FFFFFF" stroke-width="2" fill="none" />
+  <path d="M26 66 C26 60 33 60 37 60 C41 60 48 60 48 66" stroke="#FFFFFF" stroke-width="2" fill="none" />
+  
+  <text x="66" y="52" font-family="sans-serif" font-size="15" font-weight="bold" fill="#F8FAFC">Buddy Tracker<tspan fill="#A78BFA">_</tspan></text>
+  <text x="66" y="69" font-family="sans-serif" font-size="11" fill="#94A3B8">Mess &amp; hostel expense manager for roommates</text>
+  
+  <g transform="translate(66, 83)">
+    <rect x="0" y="0" width="58" height="19" rx="6" fill="#1E1B4B" stroke="#3730A3" stroke-width="0.8" />
+    <text x="29" y="13" font-family="sans-serif" font-size="10" font-weight="bold" fill="#DDD6FE" text-anchor="middle">Flutter</text>
+    <rect x="64" y="0" width="46" height="19" rx="6" fill="#1E1B4B" stroke="#3730A3" stroke-width="0.8" />
+    <text x="87" y="13" font-family="sans-serif" font-size="10" font-weight="bold" fill="#DDD6FE" text-anchor="middle">Dart</text>
+    <rect x="116" y="0" width="62" height="19" rx="6" fill="#1E1B4B" stroke="#3730A3" stroke-width="0.8" />
+    <text x="147" y="13" font-family="sans-serif" font-size="10" font-weight="bold" fill="#DDD6FE" text-anchor="middle">Firebase</text>
+  </g>
+  
+  <text x="66" y="123" font-family="sans-serif" font-size="10" fill="#64748B">&#9733; 0 &#160; updated 1mo ago</text>
+  
+  <g transform="translate(290, 50)">
+    <circle cx="6" cy="5" r="3" fill="#A78BFA" />
+    <text x="15" y="8" font-family="sans-serif" font-size="10.5" fill="#CBD5E1">Dart 84%</text>
+    <circle cx="6" cy="22" r="3" fill="#22D3EE" />
+    <text x="15" y="25" font-family="sans-serif" font-size="10.5" fill="#CBD5E1">C++ 11%</text>
+    <circle cx="6" cy="39" r="3" fill="#10B981" />
+    <text x="15" y="42" font-family="sans-serif" font-size="10.5" fill="#CBD5E1">CMake 5%</text>
+  </g>
+  
+  <g transform="translate(415, 72)">
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#1E293B" stroke-width="6" />
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#A78BFA" stroke-width="6" stroke-dasharray="121.4 144.5" stroke-dashoffset="36.1" transform="rotate(-90)" />
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#22D3EE" stroke-width="6" stroke-dasharray="15.9 144.5" stroke-dashoffset="-85.3" transform="rotate(-90)" />
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#10B981" stroke-width="6" stroke-dasharray="7.2 144.5" stroke-dashoffset="-101.2" transform="rotate(-90)" />
+    <text x="0" y="4" font-family="sans-serif" font-size="11" font-weight="bold" fill="#F8FAFC" text-anchor="middle">84%</text>
+  </g>
+</svg>
