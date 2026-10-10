@@ -1,0 +1,17 @@
+{
+    "name": "NatureNudge",
+    "short_name": "NatureNudge",
+    "description": "Your AI Outdoor Companion",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0a1a0f",
+    "theme_color": "#10b981",
+    "icons": [
+        {
+            "src": "icon-512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ]
+}
